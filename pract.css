@@ -270,12 +270,11 @@ body {
 
 .container .box-1 {
     width: 20vw;
-    height: 25vw;
+    height: 20vw;
     background-color: rgb(245, 244, 247);
     border-radius: 10%;
     text-align: center;
     padding: 2vw 2vw;
-    border-radius: 50% 50% 51% 49% / 41% 43% 57% 59%;
     box-shadow: 5px 5px 10px rgb(61, 57, 57);
 }
 
@@ -288,12 +287,12 @@ body {
 
 .container .box-2 {
     width: 20vw;
-    height: 25vw;
+    height: 20vw;
     background-color: rgb(185, 165, 231);
     border-radius: 10%;
     text-align: center;
     padding: 2vw 2vw;
-    border-radius: 50% 50% 51% 49% / 41% 43% 57% 59%;
+    /* border-radius: 50% 50% 51% 49% / 41% 43% 57% 59%; */
     box-shadow: 5px 5px 10px rgb(61, 57, 57);
 }
 
@@ -306,12 +305,12 @@ body {
 
 .container .box-3 {
     width: 20vw;
-    height: 25vw;
+    height: 20vw;
     background-color: rgb(185, 165, 231);
     border-radius: 10%;
     text-align: center;
     padding: 2vw 2vw;
-    border-radius: 50% 50% 51% 49% / 41% 43% 57% 59%;
+    /* border-radius: 50% 50% 51% 49% / 41% 43% 57% 59%; */
     box-shadow: 5px 5px 10px rgb(61, 57, 57);
     /* flex: 1; */
     /* margin: 10px; */
@@ -396,7 +395,7 @@ body {
 
     .services {
         width: 100%;
-        height: 240%;
+        height: 220%;
     }
 
     .container {
